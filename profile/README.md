@@ -4,4 +4,4 @@
 
 Get your hands dirty. Some Maths, Manim etc. stuff.
 
-撸起袖子动手做。数学、Manim 之类的东西。
+把手弄脏。数学、Manim啥的东西。
